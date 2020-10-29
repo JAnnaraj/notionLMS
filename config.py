@@ -1,0 +1,4 @@
+token_v2 = "2a237f978300f9ed10c58c10cd759007a10a66d38d793623e9de0e2c653d0f0c6893ca13bf5f20268180eaf4d62f73ac171b17fc302b3932c35d7533e7c799157e31084634790a66bf29efc28bb1"
+
+url = "https://www.notion.so/Untitled-c59945a428e549efbe41d596a430f7cb"
+web_url = "https://discord.com/api/webhooks/771242579571245067/ou4Nhi8u4paUvTJHPg_aDS8JGGI9JrKNFuFvJd9X3Ea7mtTe1HmZmPkdtYnvu0-JMFGO"
